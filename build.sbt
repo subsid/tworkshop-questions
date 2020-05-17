@@ -6,8 +6,8 @@ scalaVersion := "2.12.8"
 
 val circeVersion = "0.11.1"
 
-libraryDependencies += "org.typelevel" %% "cats-core" % "2.0.0-RC1"
-libraryDependencies += "org.typelevel" %% "cats-effect" % "1.3.1"
+libraryDependencies += "org.typelevel" %% "cats-core" % "2.1.1"
+libraryDependencies += "org.typelevel" %% "cats-effect" % "2.1.3"
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.8" % "test"
 libraryDependencies += "io.monix" %% "monix" % "3.0.0"
 
